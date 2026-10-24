@@ -22,7 +22,7 @@ export const CampLocation: React.FC = () => {
             Reaching Camp & Wilderness Preparation
           </h2>
           <p className="mt-4 text-base text-stone-300 leading-relaxed">
-            Perched along the scenic Kosi River in Mohan village, 28 km north of Ramnagar town on the Ranikhet Highway. Easy connectivity from Delhi NCR while completely secluded from tourist town traffic.
+            Perched along the scenic Khichri River in Village Kyari, Ramnagar on the periphery of Corbett. Easy connectivity from Delhi NCR while completely secluded from tourist town traffic.
           </p>
         </div>
 
@@ -41,7 +41,7 @@ export const CampLocation: React.FC = () => {
                 <Car className="w-5 h-5 text-emerald-400 mb-2" />
                 <h4 className="font-semibold text-white text-sm">By Road</h4>
                 <p className="text-xs text-stone-400 mt-1">
-                  260 km from New Delhi (5.5 hrs drive) via Hapur Bypass → Moradabad → Kashipur → Ramnagar → Mohan.
+                  260 km from New Delhi (5.5 hrs drive) via Hapur Bypass → Moradabad → Kashipur → Ramnagar → Kyari.
                 </p>
               </div>
 
@@ -49,7 +49,7 @@ export const CampLocation: React.FC = () => {
                 <Train className="w-5 h-5 text-emerald-400 mb-2" />
                 <h4 className="font-semibold text-white text-sm">By Train</h4>
                 <p className="text-xs text-stone-400 mt-1">
-                  Ranikhet Express or Corbett Park Link Express to Ramnagar station (28 km away). Private pickup arranged.
+                  Ranikhet Express or Corbett Park Link Express to Ramnagar station (12 km away). Private pickup arranged.
                 </p>
               </div>
 
@@ -57,7 +57,7 @@ export const CampLocation: React.FC = () => {
                 <Plane className="w-5 h-5 text-emerald-400 mb-2" />
                 <h4 className="font-semibold text-white text-sm">By Air</h4>
                 <p className="text-xs text-stone-400 mt-1">
-                  Pantnagar Airport (85 km, ~2 hrs drive) or Indira Gandhi International Airport New Delhi (275 km).
+                  Pantnagar Airport (80 km, ~2 hrs drive) or Indira Gandhi International Airport New Delhi (265 km).
                 </p>
               </div>
             </div>
@@ -70,14 +70,14 @@ export const CampLocation: React.FC = () => {
                   <span>Camp GPS Coordinates</span>
                 </div>
                 <div className="text-white font-mono text-sm">
-                  29.5482° N, 79.1245° E · Mohan, Almora-Ranikhet Highway
+                  Village Kyari, Ramnagar, Corbett, Uttarakhand
                 </div>
                 <div className="text-stone-400 text-xs">
-                  Right on the Kosi riverbank, opposite Kumaria Forest Rest House.
+                  Right on the Khichri riverbank surrounded by Pawalgarh & Corbett buffer forests.
                 </div>
               </div>
               <a
-                href="https://maps.google.com/?q=Jim+Corbett+National+Park+Mohan"
+                href="https://maps.google.com/?q=Kyari+Village+Corbett+Ramnagar"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-4 py-2.5 text-xs font-semibold uppercase tracking-wider text-stone-950 bg-emerald-400 hover:bg-emerald-300 rounded-md transition-colors whitespace-nowrap"

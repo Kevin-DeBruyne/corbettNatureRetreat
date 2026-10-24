@@ -29,7 +29,7 @@ export const Accommodations: React.FC<AccommodationsProps> = ({ onSelectAccommod
               Handcrafted Tents & River Cottages
             </h2>
             <p className="mt-3 text-base text-stone-600 leading-relaxed">
-              Every stay is built using low-impact local stone, seasoned Sal timber, and insulated canvas, spaced generously along the Kosi riverbank for absolute privacy and undisturbed bird song.
+              Every stay is built using low-impact local stone, seasoned Sal timber, and insulated canvas, spaced generously along the Khichri riverbank for absolute privacy and undisturbed bird song.
             </p>
           </div>
 

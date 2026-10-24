@@ -143,7 +143,7 @@ export const BookingModal: React.FC<BookingModalProps> = ({
       `Estimated Total: ₹${confirmedBooking.grandTotal.toLocaleString('en-IN')}\n` +
       `Please assist with permit upload instructions.`
     );
-    return `https://wa.me/919876543210?text=${text}`;
+    return `https://wa.me/918449506167?text=${text}`;
   };
 
   return (

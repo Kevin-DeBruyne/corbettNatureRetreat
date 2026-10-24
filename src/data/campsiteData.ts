@@ -9,7 +9,7 @@ export { heroImg, tentImg, safariImg, campfireImg };
 export const ACCOMMODATIONS: Accommodation[] = [
   {
     id: 'riverfront-safari-tent',
-    name: 'Kosi Riverfront Luxury Safari Tent',
+    name: 'Khichri Riverfront Luxury Safari Tent',
     category: 'riverfront',
     tagline: 'Step directly from your teak deck onto the riverbank pebbles',
     pricePerNight: 7500,
@@ -19,7 +19,7 @@ export const ACCOMMODATIONS: Accommodation[] = [
     image: tentImg,
     description: 'Weatherproof heavy-duty multi-layer canvas safari tent raised on natural timber stilts. Features panoramic river vistas, an en-suite stone bathroom with hot running water, handcrafted jute rugs, and brass lantern accents.',
     highlights: [
-      'Private wooden sit-out with views of the Kosi River',
+      'Private wooden sit-out with views of the Khichri River',
       'En-suite natural slate bathroom with rain shower & hot water',
       'All meals included (Breakfast, Pahadi Lunch & Campfire Barbeque Dinner)',
       '100% insect-screened mesh windows with blackout canvas flaps'
@@ -173,8 +173,8 @@ export const CAMP_EXPERIENCES: ExperienceItem[] = [
     tags: ['Campfire', 'Live Stories', 'Starry Skies', 'Included in Stay']
   },
   {
-    id: 'kosi-river-walk',
-    title: 'Dawn Kosi River & Pebble Trail Walk',
+    id: 'khichri-river-walk',
+    title: 'Dawn Khichri River & Pebble Trail Walk',
     category: 'River Adventure',
     timeOfDay: '06:30 AM - 08:00 AM',
     duration: '1.5 Hours',
@@ -218,7 +218,7 @@ export const WILDLIFE_CALENDAR: WildlifeSighting[] = [
     month: 'Mar - Jun',
     season: 'Golden Spring & Warm Dry Wilderness',
     tempRange: '18°C - 36°C',
-    tigerActivity: 'Peak - Frequent sightings around Kosi river & waterholes',
+    tigerActivity: 'Peak - Frequent sightings around Khichri river & waterholes',
     elephantActivity: 'High - Large breeding herds grazing along riverbanks',
     birdActivity: 'High - Summer breeding plumage, nesting raptors',
     idealFor: 'Big cat sightings, swimming in safe river shallows, night sky astronomy'
@@ -242,7 +242,7 @@ export const GUEST_REVIEWS = [
     stayDate: 'Stayed February 2026',
     tentType: 'Riverfront Luxury Safari Tent',
     rating: 5,
-    text: 'Sleeping with the sound of the Kosi River just outside our tent canvas was pure therapy. In the morning, our naturalist Devendra spotted fresh tiger pugmarks on the sand just 200m downstream! The bonfire and Kumaoni dinner were unforgettable.',
+    text: 'Sleeping with the sound of the Khichri River just outside our tent canvas was pure therapy. In the morning, our naturalist Devendra spotted fresh tiger pugmarks on the sand just 200m downstream! The bonfire and Kumaoni dinner were unforgettable.',
     highlight: 'Sound of the river at night & expert naturalist'
   },
   {
@@ -274,7 +274,7 @@ export const FAQS = [
   },
   {
     question: 'Is the campsite safe from wild animals?',
-    answer: 'Yes, completely. Our campsite has continuous solar perimeter fencing, well-lit pathways, and round-the-clock trained local wildlife night watchmen and naturalists. While we are right in nature on the Kosi riverbank, animals naturally avoid camp lights and human activity.'
+    answer: 'Yes, completely. Our campsite has continuous solar perimeter fencing, well-lit pathways, and round-the-clock trained local wildlife night watchmen and naturalists. While we are right in nature on the Khichri riverbank, animals naturally avoid camp lights and human activity.'
   },
   {
     question: 'What is included in the night tariff?',

@@ -90,7 +90,7 @@ export const Experiences: React.FC<ExperiencesProps> = ({ onPlanTrip }) => {
               Slow Fire Mountain Cuisine
             </h3>
             <p className="text-sm text-stone-300 mt-2 leading-relaxed">
-              Our culinary philosophy honors Uttarakhand's mountain villages. Everything is cooked fresh using iron pots and wood fire, with spices sourced directly from local women-led farming cooperatives in Mohan and Ranikhet.
+              Our culinary philosophy honors Uttarakhand's mountain villages. Everything is cooked fresh using iron pots and wood fire, with spices sourced directly from local women-led farming cooperatives in Kyari and Kumaon.
             </p>
           </div>
 

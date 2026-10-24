@@ -65,18 +65,18 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenBooking }) => {
           {/* Zone 3: 1 primary action */}
           <div className="hidden sm:flex items-center gap-4 shrink-0">
             <a 
-              href="tel:+919876543210" 
+              href="tel:+918449506167" 
               className="flex items-center gap-2 text-xs text-stone-300 hover:text-white transition-colors whitespace-nowrap shrink-0 px-2 py-1"
               title="Camp Concierge Direct"
             >
               <PhoneCall className="w-3.5 h-3.5 text-emerald-400" />
-              <span>+91 98765 43210</span>
+              <span>+91 84495 06167</span>
             </a>
             <button
               onClick={onOpenBooking}
               className="px-5 py-2.5 text-xs font-semibold uppercase tracking-wider text-stone-950 bg-emerald-400 hover:bg-emerald-300 active:scale-95 transition-all rounded-md whitespace-nowrap shrink-0 shadow-sm"
             >
-              Book Your Tent
+              Book Your Stay
             </button>
           </div>
 
@@ -110,11 +110,11 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenBooking }) => {
           </nav>
           <div className="pt-4 border-t border-stone-800 flex flex-col gap-3">
             <a 
-              href="tel:+919876543210" 
+              href="tel:+918449506167" 
               className="flex items-center gap-2 text-xs text-stone-400"
             >
               <PhoneCall className="w-4 h-4 text-emerald-400" />
-              <span>+91 98765 43210 · Mohan, Jim Corbett</span>
+              <span>+91 84495 06167 · Kyari, Corbett</span>
             </a>
             <button
               onClick={() => {
@@ -123,7 +123,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenBooking }) => {
               }}
               className="w-full py-3 text-xs font-semibold uppercase tracking-wider text-stone-950 bg-emerald-400 hover:bg-emerald-300 transition-colors rounded-md text-center"
             >
-              Book Your Tent
+              Book Your Stay
             </button>
           </div>
         </div>

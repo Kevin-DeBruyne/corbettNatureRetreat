@@ -9,8 +9,8 @@ export const WildlifeGuide: React.FC = () => {
   const birdSpecies = [
     { name: 'Great Pied Hornbill', habitat: 'Dense Sal Canopy', rarity: 'Vulnerable' },
     { name: 'Crested Serpent Eagle', habitat: 'Riverbank Perches', rarity: 'Common' },
-    { name: 'Stork-billed Kingfisher', habitat: 'Kosi River Shallows', rarity: 'Resident' },
-    { name: 'Pallas’s Fish Eagle', habitat: 'Ramganga & Kosi Reservoirs', rarity: 'Endangered' },
+    { name: 'Stork-billed Kingfisher', habitat: 'Khichri River Shallows', rarity: 'Resident' },
+    { name: 'Pallas’s Fish Eagle', habitat: 'Ramganga & Khichri Reservoirs', rarity: 'Endangered' },
     { name: 'Brown Fish Owl', habitat: 'Old Growth River Trees', rarity: 'Nocturnal' },
     { name: 'Plum-headed Parakeet', habitat: 'Bamboo Thickets', rarity: 'Abundant' }
   ];

@@ -17,14 +17,14 @@ export const Footer: React.FC<FooterProps> = ({ onOpenBooking }) => {
               Corbett Nature Retreat
             </span>
             <p className="text-stone-400 text-xs leading-relaxed">
-              Riverbank wilderness camping, luxury canvas safari tents, and certified Jim Corbett National Park expeditions along the Kosi River, Uttarakhand.
+              Riverbank wilderness camping, luxury canvas safari tents, and certified Jim Corbett National Park expeditions along the Khichri River, Uttarakhand.
             </p>
             <div className="pt-2">
               <button
                 onClick={onOpenBooking}
                 className="px-4 py-2 text-xs font-semibold uppercase tracking-wider text-stone-950 bg-emerald-400 hover:bg-emerald-300 transition-colors rounded-md"
               >
-                Reserve a Tent
+                Book Your Stay
               </button>
             </div>
           </div>
@@ -35,7 +35,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenBooking }) => {
               Accommodations
             </h4>
             <ul className="space-y-2">
-              <li><a href="#accommodations" className="hover:text-white transition-colors">Kosi Riverfront Safari Tent</a></li>
+              <li><a href="#accommodations" className="hover:text-white transition-colors">Khichri Riverfront Safari Tent</a></li>
               <li><a href="#accommodations" className="hover:text-white transition-colors">Stargazer Forest Dome</a></li>
               <li><a href="#accommodations" className="hover:text-white transition-colors">Heritage Kumaoni Sal Cottage</a></li>
               <li><a href="#accommodations" className="hover:text-white transition-colors">All-Inclusive Meal Plan</a></li>
@@ -64,15 +64,15 @@ export const Footer: React.FC<FooterProps> = ({ onOpenBooking }) => {
             <div className="space-y-2.5 text-xs text-stone-400">
               <div className="flex items-start gap-2">
                 <MapPin className="w-3.5 h-3.5 text-emerald-400 shrink-0 mt-0.5" />
-                <span>Kosi Riverbank, Mohan, Almora-Ranikhet Road, Jim Corbett, Ramnagar, Uttarakhand 244715</span>
+                <span>Khichri Riverbank, Village Kyari, Corbett, Ramnagar, Uttarakhand 244715</span>
               </div>
               <div className="flex items-center gap-2">
                 <Phone className="w-3.5 h-3.5 text-emerald-400 shrink-0" />
-                <a href="tel:+919876543210" className="hover:text-white">+91 98765 43210 / +91 98765 43211</a>
+                <a href="tel:+918449506167" className="hover:text-white">+91 84495 06167</a>
               </div>
               <div className="flex items-center gap-2">
                 <Mail className="w-3.5 h-3.5 text-emerald-400 shrink-0" />
-                <a href="mailto:stay@corbettwildscamp.in" className="hover:text-white">stay@corbettwildscamp.in</a>
+                <a href="mailto:stay@corbettnatureretreat.in" className="hover:text-white">stay@corbettnatureretreat.in</a>
               </div>
             </div>
           </div>

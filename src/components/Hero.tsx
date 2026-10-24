@@ -34,7 +34,7 @@ export const Hero: React.FC<HeroProps> = ({ onCheckAvailability, onExploreMap })
       <div className="absolute inset-0 z-0">
         <img
           src={heroImg}
-          alt="Luxury canvas safari tents along pebble bank of Kosi River in Jim Corbett National Park"
+          alt="Luxury canvas safari tents along pebble bank of Khichri River in Jim Corbett National Park"
           className="w-full h-full object-cover object-center scale-105 transition-transform duration-1000 ease-out"
           referrerPolicy="no-referrer"
         />
@@ -47,9 +47,9 @@ export const Hero: React.FC<HeroProps> = ({ onCheckAvailability, onExploreMap })
         <div className="max-w-3xl">
           {/* Clean Unboxed Metadata Kicker (Anti-Pill Rule) */}
           <div className="flex items-center gap-2 text-xs sm:text-sm font-medium tracking-wide uppercase text-emerald-300 mb-4">
-            <span>Kosi Riverbank</span>
+            <span>Khichri Riverbank</span>
             <span aria-hidden="true" className="text-stone-400">·</span>
-            <span>Mohan, Jim Corbett</span>
+            <span>Kyari, Corbett</span>
             <span aria-hidden="true" className="text-stone-400">·</span>
             <span>Foothills of Kumaon</span>
           </div>
@@ -61,7 +61,7 @@ export const Hero: React.FC<HeroProps> = ({ onCheckAvailability, onExploreMap })
 
           {/* High-Intent Value Proposition */}
           <p className="text-base sm:text-lg text-stone-200 leading-relaxed max-w-2xl mb-8 font-normal">
-            Eco-luxury insulated canvas tents perched on the crystal pebble banks of the Kosi River. Unfiltered Himalayan foothills wilderness, evening woodfire campfires, farm-to-table Kumaoni dining, and private open 4x4 Gypsy safaris led by certified naturalists.
+            Eco-luxury insulated canvas tents perched on the crystal pebble banks of the Khichri River. Unfiltered Himalayan foothills wilderness, evening woodfire campfires, farm-to-table Kumaoni dining, and private open 4x4 Gypsy safaris led by certified naturalists.
           </p>
 
           {/* Action Row */}
@@ -188,7 +188,7 @@ export const Hero: React.FC<HeroProps> = ({ onCheckAvailability, onExploreMap })
           </div>
           <div className="flex items-center gap-2.5">
             <Compass className="w-4 h-4 text-emerald-400 shrink-0" />
-            <span>Direct Kosi Pebble Riverbank Access</span>
+            <span>Direct Khichri Pebble Riverbank Access</span>
           </div>
         </div>
       </div>
