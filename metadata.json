@@ -1,0 +1,6 @@
+{
+  "name": "Corbett Wilds Campsite & Safari Retreat",
+  "description": "Authentic riverbank safari tents, starlit campfires, guided Corbett Gypsy safaris, and nature retreats on the banks of the Kosi River, Jim Corbett.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
